@@ -1,5 +1,5 @@
 #!/usr/bin/python2
-# Author : Technical SAA
+# Author : D1ARK-VA4U3
 
 from requests.exceptions import ConnectionError 
 from cookielib import LWPCookieJar as Cookie
@@ -40,7 +40,7 @@ TTTTTT  T:::::T  TTTTTT  H:::::H     H:::::H C:::::C       CCCCCC  B::::B     B:
       T:::::::::T      H:::::::H     H:::::::H CC:::::::::::::::CB:::::::::::::::::B 
       T:::::::::T      H:::::::H     H:::::::H   CCC::::::::::::CB::::::::::::::::B  
       TTTTTTTTTTT      HHHHHHHHH     HHHHHHHHH      CCCCCCCCCCCCCBBBBBBBBBBBBBBBBB
-                '''+W+'Creator   : Make by moynull\n\t\t\t  : THCB')
+                '''+W+'Creator   : Make by D1ARK-VA4U3\n\t\t\t  : THCB')
                 
 def Tool():
 	os.system('clear')
@@ -122,8 +122,8 @@ def Log_In():
 	BlackMafia(C+'Log In \Username & Password\nOwner    : '+W+'BlackMafia'+C+'\nWhatsApp : '+W+'03094161457')
 	print
 	BlackMafia(W+20 * '\xE2\x95\x90\xE2\x95\x90')
-	username = 'lovehacker'
-	password = 'BlackMafia'
+	username = 'D1ARK-VA4U3'
+	password = 'D1ARK-VA4U3'
 
 	print
 	usr = raw_input(W+'USERNAME : '+C+'')
@@ -169,14 +169,14 @@ def lovehacker():
 		print
 		BlackMafia(C+' vai tumer gf astese'+W+' ...')
 		time.sleep(1.5)
-		os.system('xdg-open https://www.facebook.com/profile.php?id=100069384973642 ')
+		os.system('xdg-open https://www.facebook.com/dark.vau.its.official ')
 		lovehacker()
 	
 	elif Choose == 3:
 		print
 		BlackMafia(C+'Coming ur BF'+W+' ...')
 		time.sleep(1.5)
-		os.system('xdg-open https://www.facebook.com/profile.php?id=100028650051426')
+		os.system('xdg-open https://www.facebook.com/dark.vau.its.official')
 		lovehacker()
 
 if __name__ == '__main__':
